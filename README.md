@@ -13,7 +13,7 @@ Resume Builder Using Vanilla JavaScript is a simple web application that allows 
 1. Clone the repository:
 
 2. Navigate to the project directory:
-
+ use it ---https://resume-design1.netlify.app
 
 ## Usage
 1. Open the `index.html` file in your web browser.
